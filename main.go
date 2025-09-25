@@ -35,5 +35,7 @@ func main() {
 	fmt.Println("A drop of water might have", molecules, "molecules")
 	fmt.Println("Do you like", courseCode, "?")
 	fmt.Println("True/False Computer programming is cool:", play_again)
+
+	fmt.Println("\nDone.")
 }
 

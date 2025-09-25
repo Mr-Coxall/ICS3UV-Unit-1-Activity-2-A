@@ -31,3 +31,5 @@ console.log("A drop of water might have " + molecules + " molecules");
 console.log("Do you like " + courseCode + "?");
 console.log("True/False Computer programming is cool: " + play_again);
 
+console.log("\nDone.");
+
